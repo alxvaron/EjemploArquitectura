@@ -1,0 +1,4 @@
+com\al\payara\service\PersonaREST.class
+com\al\model\Persona.class
+com\al\model\PersonaRepository.class
+com\al\payara\service\config\ApplicationConfig.class
